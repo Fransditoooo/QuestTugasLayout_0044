@@ -44,3 +44,9 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 .padding(bottom = 50.dp)
         )
 
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(top = 100.dp),
+            horizontalAlignment = Alignment.CenterHorizontally
+        )
