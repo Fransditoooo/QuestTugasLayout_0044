@@ -64,3 +64,13 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
             )
             Spacer(modifier = Modifier.height(25.dp))
 
+            KartuProfil(
+                nama = R.string.nama_0,
+                telp = null,
+                alamat = R.string.alamat_0,
+                warnaCard = R.color.card_0_bg,
+                gambar = R.drawable.logo_umy,
+                fontNama = FontFamily.Cursive,
+                beratFont = FontWeight.Normal,
+                ukuranNama = 20
+            )
