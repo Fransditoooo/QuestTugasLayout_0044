@@ -4,3 +4,10 @@
     <color name="text_putih">#FFFFFF</color>
     <color name="text_cyan">#00E5FF</color>
     <color name="text_kuning">#FFEB3B</color>
+
+    <!-- Warna Background Card -->
+    <color name="card_0_bg">#5A5A5A</color> <!-- Abu-abu gelap -->
+    <color name="card_1_bg">#6A3CBC</color> <!-- Ungu -->
+    <color name="card_2_bg">#0000FF</color> <!-- Biru -->
+    <color name="card_3_bg">#008000</color> <!-- Hijau -->
+</resources>
