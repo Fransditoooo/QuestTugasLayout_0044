@@ -62,3 +62,5 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold,
                 color = colorResource(id = R.color.text_hitam)
             )
+            Spacer(modifier = Modifier.height(25.dp))
+
