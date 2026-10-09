@@ -18,3 +18,8 @@
     <string name="telp_2">085436874190</string>
     <string name="alamat_2">Depok, Sleman</string>
 
+    <!-- Kartu 3 (Nafis) -->
+    <string name="nama_3">Nafis</string>
+    <string name="telp_3">085436874190</string>
+    <string name="alamat_3">Gamping, Sleman</string>
+</resources>
