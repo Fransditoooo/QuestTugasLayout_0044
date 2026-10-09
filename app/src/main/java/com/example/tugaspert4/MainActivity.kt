@@ -11,3 +11,7 @@ import androidx.compose.ui.Modifier
 import com.example.tugaspert4.ui.theme.TugasPert4Theme
 
 
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        enableEdgeToEdge()
