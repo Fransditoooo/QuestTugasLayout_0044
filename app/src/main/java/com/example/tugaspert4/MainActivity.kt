@@ -15,3 +15,14 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        setContent {
+            TugasPert4Theme {
+                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                    ActivitasPertama(
+                        modifier = Modifier.padding(innerPadding)
+                    )
+                }
+            }
+        }
+    }
+}
