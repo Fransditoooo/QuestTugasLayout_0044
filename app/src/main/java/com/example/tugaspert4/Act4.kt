@@ -33,4 +33,14 @@ import androidx.compose.ui.unit.sp
 fun ActivitasPertama(modifier: Modifier = Modifier) {
     Box(
         modifier = modifier.fillMaxSize()
-    )
+    ) {
+
+        Text(
+            text = stringResource(id = R.string.copy),
+            fontSize = 12.sp,
+            color = colorResource(id = R.color.text_hitam),
+            modifier = Modifier
+                .align(Alignment.BottomCenter)
+                .padding(bottom = 50.dp)
+        )
+
