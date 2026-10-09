@@ -4,3 +4,7 @@
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
     <string name="copy">Copyright, 2026</string>
 
+    <!-- Kartu 0 (Sudrajat) -->
+    <string name="nama_0">Sudrajat</string>
+    <string name="alamat_0">Turi, Sleman</string>
+
