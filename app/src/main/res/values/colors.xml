@@ -1,0 +1,6 @@
+<resources>
+    <!-- Warna Teks -->
+    <color name="text_hitam">#000000</color>
+    <color name="text_putih">#FFFFFF</color>
+    <color name="text_cyan">#00E5FF</color>
+    <color name="text_kuning">#FFEB3B</color>
